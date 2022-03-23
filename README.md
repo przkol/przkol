@@ -1,6 +1,5 @@
 ## Hi there 👋
 ### My name is Przemysław and my goal is to become a junior front-end developer!
-[My Linkedin profile](https://www.linkedin.com/in/pkolka/)
 
 ### You can see live versions of my projects below:
 
