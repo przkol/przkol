@@ -1,15 +1,18 @@
 ## Hi there 👋
 ### My name is Przemysław and my goal is to become a junior front-end developer!
+[My Linkedin profile](https://www.linkedin.com/in/pkolka/)
 
 ### You can see live versions of my projects below:
 
 ## [SpamBook](https://przkol.github.io/spambook/)  
-My attempt at recreating Facebook's front-end with 'social media' content generation based on free web APIs. Created using create-react-app, redux and more. (See Spambook repository for more details)  
+My attempt at recreating Facebook's front-end with generic social media content generation based on free web APIs. Created using create-react-app, redux and more.  
+[(See Spambook repository for more details)](https://github.com/przkol/spambook)
 
 ## [Pokemon App](https://pokeapp-pkolka.herokuapp.com/) 
-PokeDex-like database of Pokemon, uses data provided by [PokeApi](https://pokeapi.co/). This is my first major project in TypeScript.  
+PokeDex-like database of Pokemon, with custom made pagination & API calls for more smart data usage. Created using create-react-app, typescript, redux and more.  
 Please login using credentials: user1 / pokeapp123  
-The login cookie will be stored for 30minutes.
+The login cookie will be stored for 30minutes.  
+[(See PokeApp repository for more details)](https://github.com/przkol/myapp)
 <!--
 **przkol/przkol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
