@@ -4,7 +4,7 @@
 ### You can see live versions of my projects below:
 
 ## [SpaceX Launches](spacex-pkolka.netlify.app/)  
-My newest project - gallery of SpaceX launches with photos and mission details. Data provided by SpaceX's graphQL API. Created using React, TypeScript, Bootstrap and more.
+My newest project - gallery of SpaceX launches with photos, mission details and infinite scroll. Data provided by SpaceX's graphQL API. Created using React, TypeScript, Bootstrap and more.
 
 
 ## [SpamBook](https://przkol.github.io/spambook/)  
